@@ -58,7 +58,7 @@ contextlib2==0.6.0.post1
 convertdate==2.1.3
 coursera==0.5.2
 cricpy==0.0.20
-cryptography==2.7
+cryptography==3.2
 csvkit==1.0.4
 cufflinks==0.16
 cwrap==1.6.1
